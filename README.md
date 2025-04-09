@@ -2,6 +2,7 @@
 I recently stumbled upon an article discussing the increasing use of AI in peer review, and it really got me thinking. It seems AI is now being used to analyze research papers, assist reviewers, and even generate entire reviews. This development, while promising in terms of efficiency, has sparked a lot of concern among scientists and publishers.
 
 Timothée Poisot, an ecologist, shared an experience where he suspected an AI had written a review of his manuscript. He found a telltale phrase indicating the use of large language models (LLMs), which led him to question the entire process. His concern resonates with me – peer review is supposed to be about getting feedback from fellow experts, not algorithms.
+![ AI's Growing Role in Peer Review Sparks Debate](https://github.com/user-attachments/assets/2220c402-121b-46a5-bcfd-cb2dfe3961a8)
 
 Apparently, publishers have been using AI tools for various tasks like checking statistics and summarizing findings for years. But the rise of LLMs like ChatGPT has changed things. Some researchers are using LLMs to speed up their reviews, but this raises questions about the depth and quality of the feedback. A survey even found that a significant percentage of reviews might have been substantially modified by LLMs.
 
